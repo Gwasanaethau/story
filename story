@@ -7,3 +7,5 @@ They worked together on a small project.
 Which was a funny thing.
 
 They kept running into problems with pull-requests.
+
+But eventually they find out that fetching is good.
